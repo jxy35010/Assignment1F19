@@ -1,0 +1,11 @@
+C:\Users\xinyu\source\repos\assignment11\obj\Debug\netcoreapp2.1\assignment11.csprojAssemblyReference.cache
+C:\Users\xinyu\source\repos\assignment11\obj\Debug\netcoreapp2.1\assignment11.csproj.CoreCompileInputs.cache
+C:\Users\xinyu\source\repos\assignment11\obj\Debug\netcoreapp2.1\assignment11.AssemblyInfoInputs.cache
+C:\Users\xinyu\source\repos\assignment11\obj\Debug\netcoreapp2.1\assignment11.AssemblyInfo.cs
+C:\Users\xinyu\source\repos\assignment11\bin\Debug\netcoreapp2.1\assignment11.deps.json
+C:\Users\xinyu\source\repos\assignment11\bin\Debug\netcoreapp2.1\assignment11.runtimeconfig.json
+C:\Users\xinyu\source\repos\assignment11\bin\Debug\netcoreapp2.1\assignment11.runtimeconfig.dev.json
+C:\Users\xinyu\source\repos\assignment11\bin\Debug\netcoreapp2.1\assignment11.dll
+C:\Users\xinyu\source\repos\assignment11\bin\Debug\netcoreapp2.1\assignment11.pdb
+C:\Users\xinyu\source\repos\assignment11\obj\Debug\netcoreapp2.1\assignment11.dll
+C:\Users\xinyu\source\repos\assignment11\obj\Debug\netcoreapp2.1\assignment11.pdb
